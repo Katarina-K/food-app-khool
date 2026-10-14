@@ -1,0 +1,8 @@
+body {
+  color: #0F292F;
+  font-family: didot, serif;
+  background-image: url(images/freshVeg.png);
+  background-repeat: no-repeat;
+  display: flex;
+}
+
